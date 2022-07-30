@@ -1,0 +1,570 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{Asi2020NearII}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d0e3548c6e437b8c714881fa954ccfcb}{%
+           family={Asi},
+           familyi={A\bibinitperiod},
+           given={Hilal},
+           giveni={H\bibinitperiod}}}%
+        {{hash=468dba603c17ad74f810b4ae49b043a6}{%
+           family={Duchi},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f90428c913eefdc6c4f18383258b4ac3}
+      \strng{fullhash}{f90428c913eefdc6c4f18383258b4ac3}
+      \strng{bibnamehash}{f90428c913eefdc6c4f18383258b4ac3}
+      \strng{authorbibnamehash}{f90428c913eefdc6c4f18383258b4ac3}
+      \strng{authornamehash}{f90428c913eefdc6c4f18383258b4ac3}
+      \strng{authorfullhash}{f90428c913eefdc6c4f18383258b4ac3}
+      \field{labelalpha}{AD20}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ArXiv}
+      \field{month}{5}
+      \field{title}{Near Instance-Optimality in Differential Privacy}
+      \field{volume}{abs/2005.10630}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://arxiv.org/pdf/2005.10630.pdf
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/pdf/2005.10630.pdf
+      \endverb
+    \endentry
+    \entry{pew}{online}{}
+      \name{author}{6}{}{%
+        {{hash=34bafb5d9982bb6309a368ec22014223}{%
+           family={Auxier},
+           familyi={A\bibinitperiod},
+           given={Brooke},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8a90f97c1f62fc56517b2539b992c9ee}{%
+           family={Rainie},
+           familyi={R\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod}}}%
+        {{hash=08484cd7e6b7f59bcc31cc16ce77f5b4}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=10a2068cf33a95f224e500bb8665c9de}{%
+           family={Perrin},
+           familyi={P\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a900d8e29334890963492cebb1d27330}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Madhu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ac1ae79d3b6231148e1ba47a7d2865ad}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Erica},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pew Research Center}%
+      }
+      \strng{namehash}{370ff6e50227dae00788883ef5ebff40}
+      \strng{fullhash}{e71a95da47a033190c7d2ddb7173703b}
+      \strng{bibnamehash}{370ff6e50227dae00788883ef5ebff40}
+      \strng{authorbibnamehash}{370ff6e50227dae00788883ef5ebff40}
+      \strng{authornamehash}{370ff6e50227dae00788883ef5ebff40}
+      \strng{authorfullhash}{e71a95da47a033190c7d2ddb7173703b}
+      \field{labelalpha}{Aux+19}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{11}
+      \field{title}{Americans and Privacy: Concerned, Confused and Feeling Lack of Control Over Their Personal Information}
+      \field{urlday}{20}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2019/11/Pew-Research-Center_PI_2019.11.15_Privacy_FINAL.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2019/11/Pew-Research-Center_PI_2019.11.15_Privacy_FINAL.pdf
+      \endverb
+    \endentry
+    \entry{git}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1a80ef4258b8a585e20069109ac7eabf}{%
+           family={Canesse},
+           familyi={C\bibinitperiod},
+           given={Alexi},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {GitHub}%
+      }
+      \strng{namehash}{1a80ef4258b8a585e20069109ac7eabf}
+      \strng{fullhash}{1a80ef4258b8a585e20069109ac7eabf}
+      \strng{bibnamehash}{1a80ef4258b8a585e20069109ac7eabf}
+      \strng{authorbibnamehash}{1a80ef4258b8a585e20069109ac7eabf}
+      \strng{authornamehash}{1a80ef4258b8a585e20069109ac7eabf}
+      \strng{authorfullhash}{1a80ef4258b8a585e20069109ac7eabf}
+      \field{labelalpha}{Can22}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/alexicanesse/Stage-L3}}
+      \field{journaltitle}{GitHub repository}
+      \field{title}{Arbitrages statistiques dans l'apprentissage automatique confidentiel}
+      \field{year}{2022}
+    \endentry
+    \entry{david2003order}{book}{}
+      \name{author}{2}{}{%
+        {{hash=f5022b7c279731a7110b7f5192f50e7c}{%
+           family={David},
+           familyi={D\bibinitperiod},
+           given={H.A.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d29f101593c8513fc4c8a01b65f72da1}{%
+           family={Nagaraja},
+           familyi={N\bibinitperiod},
+           given={H.N.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{ed70c886b28cd295a608beed14f7e963}
+      \strng{fullhash}{ed70c886b28cd295a608beed14f7e963}
+      \strng{bibnamehash}{ed70c886b28cd295a608beed14f7e963}
+      \strng{authorbibnamehash}{ed70c886b28cd295a608beed14f7e963}
+      \strng{authornamehash}{ed70c886b28cd295a608beed14f7e963}
+      \strng{authorfullhash}{ed70c886b28cd295a608beed14f7e963}
+      \field{labelalpha}{DN03}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780471389262}
+      \field{series}{Wiley Series in Probability and Statistics}
+      \field{title}{Order Statistics}
+      \field{year}{2003}
+    \endentry
+    \entry{dwork2014the}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c6d8866083f4c03af5e37e032df87089}{%
+           family={Dwork},
+           familyi={D\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9bb323b3c3d2af68def0dcbde8e6795d}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {now publishers inc}%
+      }
+      \strng{namehash}{4d8bf63261aefa96e8725c0b5785f3b3}
+      \strng{fullhash}{4d8bf63261aefa96e8725c0b5785f3b3}
+      \strng{bibnamehash}{4d8bf63261aefa96e8725c0b5785f3b3}
+      \strng{authorbibnamehash}{4d8bf63261aefa96e8725c0b5785f3b3}
+      \strng{authornamehash}{4d8bf63261aefa96e8725c0b5785f3b3}
+      \strng{authorfullhash}{4d8bf63261aefa96e8725c0b5785f3b3}
+      \field{labelalpha}{DR14}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The problem of privacy-preserving data analysis has a long history spanning multiple disciplines. As electronic data about individuals becomes increasingly detailed, and as technology enables ever more powerful collection and curation of these data, the need increases for a robust, meaningful, and mathematically rigorous definition of privacy, together with a computationally rich class of algorithms that satisfy this definition. Differential Privacy is such a definition. After motivating and discussing the meaning of differential privacy, the preponderance of this monograph is devoted to fundamental techniques for achieving differential privacy, and application of these techniques in creative combinations, using the query-release problem as an ongoing example. A key point is that, by rethinking the computational goal, one can often obtain far better results than would be achieved by methodically replacing each step of a non-private computation with a differentially private implementation. Despite some astonishingly powerful computational results, there are still fundamental limitations — not just on what can be achieved with differential privacy but on what can be achieved with any method that protects against a complete breakdown in privacy. Virtually all the algorithms discussed herein maintain differential privacy against adversaries of arbitrary computational power. Certain algorithms are computationally intensive, others are efficient. Computational complexity for the adversary and the algorithm are both discussed. We then turn from fundamentals to applications other than queryrelease, discussing differentially private methods for mechanism design and machine learning. The vast majority of the literature on differentially private algorithms considers a single, static, database that is subject to many analyses. Differential privacy in other models, including distributed databases and computations on data streams is discussed. Finally, we note that this work is meant as a thorough introduction to the problems and techniques of differential privacy, but is not intended to be an exhaustive survey — there is by now a vast amount of work in differential privacy, and we can cover only a small portion of it.}
+      \field{journaltitle}{Foundations and Trends in Theoretical Computer Science}
+      \field{month}{8}
+      \field{title}{The Algorithmic Foundations of Differential Privacy}
+      \field{volume}{9}
+      \field{year}{2014}
+      \field{pages}{211\bibrangedash 407}
+      \range{pages}{197}
+      \verb{urlraw}
+      \verb https://www.microsoft.com/en-us/research/publication/algorithmic-foundations-differential-privacy/
+      \endverb
+      \verb{url}
+      \verb https://www.microsoft.com/en-us/research/publication/algorithmic-foundations-differential-privacy/
+      \endverb
+    \endentry
+    \entry{10.1007/11681878_14}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=c6d8866083f4c03af5e37e032df87089}{%
+           family={Dwork},
+           familyi={D\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a0e6c99aabdc2587f248892c8bb23f70}{%
+           family={McSherry},
+           familyi={M\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f420df13b9ad6b7a1a9cbcdba96c8381}{%
+           family={Nissim},
+           familyi={N\bibinitperiod},
+           given={Kobbi},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5ccecf114bbd51a1a2979a23dd69c78c}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=7c86404bf6ef06056efb632aff16d2c0}{%
+           family={Halevi},
+           familyi={H\bibinitperiod},
+           given={Shai},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d0a232b92e9efa1d3b250cd86aeee031}{%
+           family={Rabin},
+           familyi={R\bibinitperiod},
+           given={Tal},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{f676b30234623eef69e5ed6be9df75b0}
+      \strng{fullhash}{77e096c431cfc8d9fee8a2eef9669db1}
+      \strng{bibnamehash}{f676b30234623eef69e5ed6be9df75b0}
+      \strng{authorbibnamehash}{f676b30234623eef69e5ed6be9df75b0}
+      \strng{authornamehash}{f676b30234623eef69e5ed6be9df75b0}
+      \strng{authorfullhash}{77e096c431cfc8d9fee8a2eef9669db1}
+      \strng{editorbibnamehash}{2cc86bcba7b12686057ffd2baa6b839b}
+      \strng{editornamehash}{2cc86bcba7b12686057ffd2baa6b839b}
+      \strng{editorfullhash}{2cc86bcba7b12686057ffd2baa6b839b}
+      \field{labelalpha}{Dwo+06}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We continue a line of research initiated in [10,11]on privacy-preserving statistical databases. Consider a trusted server that holds a database of sensitive information. Given a query function f mapping databases to reals, the so-called true answer is the result of applying f to the database. To protect privacy, the true answer is perturbed by the addition of random noise generated according to a carefully chosen distribution, and this response, the true answer plus noise, is returned to the user.}
+      \field{booktitle}{Theory of Cryptography}
+      \field{isbn}{978-3-540-32732-5}
+      \field{title}{Calibrating Noise to Sensitivity in Private Data Analysis}
+      \field{year}{2006}
+      \field{pages}{265\bibrangedash 284}
+      \range{pages}{20}
+    \endentry
+    \entry{forbesdata}{online}{}
+      \name{author}{1}{}{%
+        {{hash=762bdaa33b9f53f0eed85334591c89cb}{%
+           family={Meehan},
+           familyi={M\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Forbes}%
+      }
+      \strng{namehash}{762bdaa33b9f53f0eed85334591c89cb}
+      \strng{fullhash}{762bdaa33b9f53f0eed85334591c89cb}
+      \strng{bibnamehash}{762bdaa33b9f53f0eed85334591c89cb}
+      \strng{authorbibnamehash}{762bdaa33b9f53f0eed85334591c89cb}
+      \strng{authornamehash}{762bdaa33b9f53f0eed85334591c89cb}
+      \strng{authorfullhash}{762bdaa33b9f53f0eed85334591c89cb}
+      \field{labelalpha}{Mee19}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{11}
+      \field{title}{Data Privacy Will Be The Most Important Issue In The Next Decade}
+      \field{urlday}{20}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.forbes.com/sites/marymeehan/2019/11/26/data-privacy-will-be-the-most-important-issue-in-the-next-decade/?sh=430b3e591882
+      \endverb
+      \verb{url}
+      \verb https://www.forbes.com/sites/marymeehan/2019/11/26/data-privacy-will-be-the-most-important-issue-in-the-next-decade/?sh=430b3e591882
+      \endverb
+    \endentry
+    \entry{cell}{article}{}
+      \name{author}{4}{}{%
+        {{hash=4e5276a09e5b94bbc6b688c6507bf1ad}{%
+           family={Montjoye},
+           familyi={M\bibinitperiod},
+           given={Yves-Alexandre},
+           giveni={Y\bibinithyphendelim A\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=766f75fa2f6e90fc264b64843a1f0604}{%
+           family={Hidalgo},
+           familyi={H\bibinitperiod},
+           given={César\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=88691a3c06eb4d21eecbf7a3688cfc6b}{%
+           family={Verleysen},
+           familyi={V\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7c4ebd50451e5b718eb3d5ad6cfbad71}{%
+           family={Blondel},
+           familyi={B\bibinitperiod},
+           given={Vincent\bibnamedelima D.},
+           giveni={V\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{22ebf9dff17f3b582cb25aa533bb394b}
+      \strng{fullhash}{a7e57ed7052457ec813cc0b9d7aa93fb}
+      \strng{bibnamehash}{22ebf9dff17f3b582cb25aa533bb394b}
+      \strng{authorbibnamehash}{22ebf9dff17f3b582cb25aa533bb394b}
+      \strng{authornamehash}{22ebf9dff17f3b582cb25aa533bb394b}
+      \strng{authorfullhash}{a7e57ed7052457ec813cc0b9d7aa93fb}
+      \field{labelalpha}{Mon+13}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{month}{3}
+      \field{title}{Unique in the Crowd: The privacy bounds of human mobility}
+      \field{volume}{3}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/srep01376
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/srep01376
+      \endverb
+    \endentry
+    \entry{mcsherry2007mechanism}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=a0e6c99aabdc2587f248892c8bb23f70}{%
+           family={McSherry},
+           familyi={M\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=1754a40f9d600dea756c1dd1047ce170}{%
+           family={Talwar},
+           familyi={T\bibinitperiod},
+           given={Kunal},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{d56d0927a05cb20b3081d18d1d1860e8}
+      \strng{fullhash}{d56d0927a05cb20b3081d18d1d1860e8}
+      \strng{bibnamehash}{d56d0927a05cb20b3081d18d1d1860e8}
+      \strng{authorbibnamehash}{d56d0927a05cb20b3081d18d1d1860e8}
+      \strng{authornamehash}{d56d0927a05cb20b3081d18d1d1860e8}
+      \strng{authorfullhash}{d56d0927a05cb20b3081d18d1d1860e8}
+      \field{labelalpha}{MT07}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We study the role that privacy-preserving algorithms, which prevent the leakage of speciﬁc information about participants, can play in the design of mechanisms for strategic agents, which must encourage players to honestly report information. Speciﬁcally, we show that the recent notion of differential privacy [15, 14], in addition to its own intrinsic virtue, can ensure that participants have limited effect on the outcome of the mechanism, and as a consequence have limited incentive to lie. More precisely, mechanisms with differential privacy are approximate dominant strategy under arbitrary player utility functions, are automatically resilient to coalitions, and easily allow repeatability. We study several special cases of the unlimited supply auction problem, providing new results for digital goods auctions, attribute auctions, and auctions with arbitrary structural constraints on the prices. As an important prelude to developing a privacy-preserving auction mechanism, we introduce and study a generalization of previous privacy work that accommodates the high sensitivity of the auction setting, where a single participant may dramatically alter the optimal ﬁxed price, and a slight change in the offered price may take the revenue from optimal to zero.}
+      \field{booktitle}{Annual IEEE Symposium on Foundations of Computer Science (FOCS)}
+      \field{edition}{Annual IEEE Symposium on Foundations of Computer Science (FOCS)}
+      \field{month}{10}
+      \field{title}{Mechanism Design via Differential Privacy}
+      \field{year}{2007}
+      \verb{urlraw}
+      \verb https://www.microsoft.com/en-us/research/publication/mechanism-design-via-differential-privacy/
+      \endverb
+      \verb{url}
+      \verb https://www.microsoft.com/en-us/research/publication/mechanism-design-via-differential-privacy/
+      \endverb
+    \endentry
+    \entry{10.5555/3134214}{book}{}
+      \name{author}{2}{}{%
+        {{hash=4dbcb1c7060726deee27d97b4bf31321}{%
+           family={Mitzenmacher},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bb283362dabfd7d804c298b157e8cb43}{%
+           family={Upfal},
+           familyi={U\bibinitperiod},
+           given={Eli},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {USA}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{f291aba097fea1ebb12ca21bc1eafbb8}
+      \strng{fullhash}{f291aba097fea1ebb12ca21bc1eafbb8}
+      \strng{bibnamehash}{f291aba097fea1ebb12ca21bc1eafbb8}
+      \strng{authorbibnamehash}{f291aba097fea1ebb12ca21bc1eafbb8}
+      \strng{authornamehash}{f291aba097fea1ebb12ca21bc1eafbb8}
+      \strng{authorfullhash}{f291aba097fea1ebb12ca21bc1eafbb8}
+      \field{labelalpha}{MU17}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Greatly expanded, this new edition requires only an elementary background in discrete mathematics and offers a comprehensive introduction to the role of randomization and probabilistic techniques in modern computer science. Newly added chapters and sections cover topics including normal distributions, sample complexity, VC dimension, Rademacher complexity, power laws and related distributions, cuckoo hashing, and the Lovasz Local Lemma. Material relevant to machine learning and big data analysis enables students to learn modern techniques and applications. Among the many new exercises and examples are programming-related exercises that provide students with excellent training in solving relevant problems. This book provides an indispensable teaching tool to accompany a one- or two-semester course for advanced undergraduate students in computer science and applied mathematics.}
+      \field{edition}{2nd}
+      \field{isbn}{110715488X}
+      \field{title}{Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis}
+      \field{year}{2017}
+    \endentry
+    \entry{salaries}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f56bbbe245ee9140cbba4e3ed8e0479f}{%
+           family={NY},
+           familyi={N\bibinitperiod},
+           given={Open\bibnamedelima Data},
+           giveni={O\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Authorities Budget Office}%
+      }
+      \list{publisher}{1}{%
+        {State of New York}%
+      }
+      \strng{namehash}{f56bbbe245ee9140cbba4e3ed8e0479f}
+      \strng{fullhash}{f56bbbe245ee9140cbba4e3ed8e0479f}
+      \strng{bibnamehash}{f56bbbe245ee9140cbba4e3ed8e0479f}
+      \strng{authorbibnamehash}{f56bbbe245ee9140cbba4e3ed8e0479f}
+      \strng{authornamehash}{f56bbbe245ee9140cbba4e3ed8e0479f}
+      \strng{authorfullhash}{f56bbbe245ee9140cbba4e3ed8e0479f}
+      \field{labelalpha}{NY21}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Public authorities are required by Section 2800 of Public Authorities Law to submit annual reports to the Authorities Budget Office that includes salary and compensation data. The dataset consists of salary data by employee reported by Local Authorities that covers 8 fiscal years, which includes fiscal years ending in the most recently completed calendar year.}
+      \field{day}{13}
+      \field{month}{12}
+      \field{title}{Salary Information for Local Authorities}
+      \field{urlday}{8}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://data.ny.gov/Transparency/Salary-Information-for-Local-Authorities/fx93-cifz
+      \endverb
+      \verb{url}
+      \verb https://data.ny.gov/Transparency/Salary-Information-for-Local-Authorities/fx93-cifz
+      \endverb
+    \endentry
+    \entry{rec26}{online}{}
+      \name{author}{2}{}{%
+        {{hash=c25d305ea83de23a244dd39c979ff060}{%
+           family={Parliament},
+           familyi={P\bibinitperiod},
+           given={European},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f4dfa52e1b1583cf31ef55fa2a92580f}{%
+           family={European\bibnamedelima Union},
+           familyi={E\bibinitperiod\bibinitdelim U\bibinitperiod},
+           given={Council},
+           giveni={C\bibinitperiod},
+           prefix={of\bibnamedelima the},
+           prefixi={o\bibinitperiod\bibinitdelim t\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a5709c126112ea159c254d994dd3fe1}
+      \strng{fullhash}{9a5709c126112ea159c254d994dd3fe1}
+      \strng{bibnamehash}{9a5709c126112ea159c254d994dd3fe1}
+      \strng{authorbibnamehash}{9a5709c126112ea159c254d994dd3fe1}
+      \strng{authornamehash}{9a5709c126112ea159c254d994dd3fe1}
+      \strng{authorfullhash}{9a5709c126112ea159c254d994dd3fe1}
+      \field{labelalpha}{PE16}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{month}{4}
+      \field{title}{Regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (Data Protection Directive)}
+      \field{urlday}{20}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://gdpr-info.eu/recitals/no-26/
+      \endverb
+      \verb{url}
+      \verb https://gdpr-info.eu/recitals/no-26/
+      \endverb
+    \endentry
+    \entry{link}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4b70cbf7a64d719bc32e412248e3ff64}{%
+           family={Sweeney},
+           familyi={S\bibinitperiod},
+           given={Latanya},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b70cbf7a64d719bc32e412248e3ff64}
+      \strng{fullhash}{4b70cbf7a64d719bc32e412248e3ff64}
+      \strng{bibnamehash}{4b70cbf7a64d719bc32e412248e3ff64}
+      \strng{authorbibnamehash}{4b70cbf7a64d719bc32e412248e3ff64}
+      \strng{authornamehash}{4b70cbf7a64d719bc32e412248e3ff64}
+      \strng{authorfullhash}{4b70cbf7a64d719bc32e412248e3ff64}
+      \field{labelalpha}{Swe00}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{{Simple Demographics Often Identify People Uniquely}}
+      \field{urlday}{20}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1184/R1/6625769.v1
+      \endverb
+      \verb{urlraw}
+      \verb https://dataprivacylab.org/projects/identifiability/paper1.pdf
+      \endverb
+      \verb{url}
+      \verb https://dataprivacylab.org/projects/identifiability/paper1.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

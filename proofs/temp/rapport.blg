@@ -1,0 +1,15 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is './rapport.blg'
+[116] biber-darwin:340> INFO - === Sat Jul 30, 2022, 10:21:44
+[147] Biber.pm:415> INFO - Reading './rapport.bcf'
+[266] Biber.pm:952> INFO - Found 13 citekeys in bib section 0
+[286] Biber.pm:4340> INFO - Processing section 0
+[302] Biber.pm:4531> INFO - Looking for bibtex format file './proofs/source/rapport.bib' for section 0
+[306] bibtex.pm:1689> INFO - LaTeX decoding ...
+[331] bibtex.pm:1494> INFO - Found BibTeX data source './proofs/source/rapport.bib'
+[519] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[519] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[519] Biber.pm:4168> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'fr-FR'
+[520] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
+[551] bbl.pm:654> INFO - Writing './rapport.bbl' with encoding 'UTF-8'
+[563] bbl.pm:757> INFO - Output to ./rapport.bbl
